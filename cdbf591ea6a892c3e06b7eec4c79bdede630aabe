@@ -1,0 +1,4 @@
+{
+  "pushCert": "certificate version 0.1\npusher 5FE7EDD4 1504206224 +0000\npushee ssh://review.carbonrom.org:29418/CarbonROM/android_system_qcom\nnonce 1504206231-9736EC1AF4A3A50077F717D64C272D1D307ECF63\n\n0000000000000000000000000000000000000000 cdbf591ea6a892c3e06b7eec4c79bdede630aabe refs/for/cr-6.0/caf_oreo\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niJwEAAECAAYFAlmoXZAACgkQBwRB5l/n7dRxEQQAn2k70V9WxW72nJ6ocxvG/xO/\n79326dDCkZVWrsIID6CLpECVhFBF17t4LeF2paq9q0vhWUF9lKUpmLVq8TWZXnLZ\nxXo1TRrqc1lOK1Qid6UKRQmP+g28FaLZDuSUJNPMFH/P/M9PZ+qe2P5AuPQM9hLu\nfhI9zZeaV4X5mumvH0w\u003d\n\u003dLBu+\n-----END PGP SIGNATURE-----\n",
+  "comments": []
+}
